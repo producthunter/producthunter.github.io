@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://producthunter.github.io/</id>
     <title>Product Hunter</title>
-    <updated>2019-10-02T01:08:19.506Z</updated>
+    <updated>2019-10-09T16:36:56.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://producthunter.github.io/"/>
     <link rel="self" href="https://producthunter.github.io//atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://producthunter.github.io//images/avatar.png</logo>
     <icon>https://producthunter.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Product Hunter</rights>
+    <entry>
+        <title type="html"><![CDATA[nybble 一款开源的机器猫]]></title>
+        <id>https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao</id>
+        <link href="https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao">
+        </link>
+        <updated>2019-10-06T18:27:25.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1570386522453.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1570386528080.png" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1570386535189.png" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1570386539125.jpg" alt=""></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[air-pix 揣在兜里的自拍无人机]]></title>
+        <id>https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji</id>
+        <link href="https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji">
+        </link>
+        <updated>2019-10-06T18:07:54.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1570385368262.gif" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1570385377128.gif" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1570385382736.gif" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1570385388789.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在线todolist]]></title>
         <id>https://producthunter.github.io//post/zai-xian-todolist</id>
@@ -112,16 +136,6 @@ Access to this resource on the server is denied!</p>
 <p>10.HTML5的图形化页面编程：无需学习具体的编程语言</p>
 <p>11.跨平台编程平台：无需APP，兼容PC、Windows、Android、iOS、Mac...</p>
 <p>详细 https://mp.weixin.qq.com/s?__biz=MzU2NzA3NTI3Ng==&amp;mid=100000174&amp;idx=1&amp;sn=cfb411c50a80c9029c621e926f378ee6&amp;chksm=7ca3890d4bd4001b3073051508b2ac3e271948ac3083a7a79973ba551c3b1adfac59b8fd0c19#rd</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不能喝水的Mojo马克杯]]></title>
-        <id>https://producthunter.github.io//post/bu-neng-he-shui-de-mojo-ma-ke-bei</id>
-        <link href="https://producthunter.github.io//post/bu-neng-he-shui-de-mojo-ma-ke-bei">
-        </link>
-        <updated>2019-10-01T05:28:22.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1569907732201.png" alt=""></figure>
-<p>它只能听音乐</p>
 ]]></content>
     </entry>
 </feed>

@@ -1,238 +1,294 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Product Hunter</title>
-<meta name="description" content="分享好玩的产品" />
-<link rel="shortcut icon" href="https://producthunter.github.io//favicon.ico?v=1570635596718">
+    <meta charset="utf-8" >
+
+<title>文章归档 | Product Hunter</title>
+<meta name="description" content="分享好玩的产品">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://producthunter.github.io//favicon.ico?v=1571070778751">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://producthunter.github.io//styles/main.css">
 
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://producthunter.github.io/">
-  <img class="avatar" src="https://producthunter.github.io//images/avatar.png?v=1570635596718" alt="">
-  </a>
-  <h1 class="site-title">
-    Product Hunter
-  </h1>
-  <p class="site-description">
-    分享好玩的产品
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-</div>
+    <div id="app" class="main">
 
-    
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://producthunter.github.io/">
+        <img src="https://producthunter.github.io//images/avatar.png?v=1571070778751" class="site-logo">
+        <h1 class="site-title">Product Hunter</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
         
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      分享好玩的产品
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://producthunter.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
-<div class="archives-container">
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+
+          <h2 class="archives-title">文章归档</h2>
+          <div class="archives-container">
+            
+              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2019</h2>
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/jian-dan-yuan-shi-de-mu-zhi-ce-deng-yi">
+                      <h2 class="post-title">
+                        简单原始的木制测灯仪
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/xiao-nang-chu-fang-tao-jian">
+                      <h2 class="post-title">
+                        胶囊厨房套件
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/yi-chong-ke-lian-shi-lian-jie-de-shao-kao-lu">
+                      <h2 class="post-title">
+                        一种可链式连接的烧烤炉
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/yi-chong-sheng-xing-deng">
+                      <h2 class="post-title">
+                        一种绳形灯
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/fei-li-pu-led-yue-du-deng">
+                      <h2 class="post-title">
+                        飞利浦LED阅读灯
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao">
+                      <h2 class="post-title">
+                        nybble 一款开源的机器猫
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji">
+                      <h2 class="post-title">
+                        air-pix 揣在兜里的自拍无人机
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/zai-xian-todolist">
+                      <h2 class="post-title">
+                        在线todolist
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/a-drone-umbrella">
+                      <h2 class="post-title">
+                        A drone umbrella
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/403-t-xu">
+                      <h2 class="post-title">
+                        403 T恤
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/cha-zai-shou-ji-shang-de-wen-du-ji">
+                      <h2 class="post-title">
+                        插在手机上的温度计
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/popcorn-monsoonzhuan-ye-de-bao-mi-hua-ji">
+                      <h2 class="post-title">
+                        Popcorn Monsoon：专业的爆米花机
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/sui-shen-xi-yi-shen-qi">
+                      <h2 class="post-title">
+                        随身洗衣神器
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/shui-guai-pao-cha-qi">
+                      <h2 class="post-title">
+                        水怪泡茶器
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/littlebits-dian-zi-ji-mu">
+                      <h2 class="post-title">
+                        LittleBits电子积木
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://producthunter.github.io//post/bu-neng-he-shui-de-mojo-ma-ke-bei">
+                      <h2 class="post-title">
+                        不能喝水的Mojo马克杯
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+            
+          </div>
+
+          <div class="pagination-container">
   
-    <h2 class="year">2019</h2>
-    
-      
-        <a href="https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao" class="post">
-          <h2 class="post-title">
-            nybble 一款开源的机器猫
-          </h2>
-          <div class="time">2019-10-07</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji" class="post">
-          <h2 class="post-title">
-            air-pix 揣在兜里的自拍无人机
-          </h2>
-          <div class="time">2019-10-07</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/zai-xian-todolist" class="post">
-          <h2 class="post-title">
-            在线todolist
-          </h2>
-          <div class="time">2019-10-02</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/a-drone-umbrella" class="post">
-          <h2 class="post-title">
-            A drone umbrella
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/403-t-xu" class="post">
-          <h2 class="post-title">
-            403 T恤
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/cha-zai-shou-ji-shang-de-wen-du-ji" class="post">
-          <h2 class="post-title">
-            插在手机上的温度计
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/popcorn-monsoonzhuan-ye-de-bao-mi-hua-ji" class="post">
-          <h2 class="post-title">
-            Popcorn Monsoon：专业的爆米花机
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/sui-shen-xi-yi-shen-qi" class="post">
-          <h2 class="post-title">
-            随身洗衣神器
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/shui-guai-pao-cha-qi" class="post">
-          <h2 class="post-title">
-            水怪泡茶器
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/littlebits-dian-zi-ji-mu" class="post">
-          <h2 class="post-title">
-            LittleBits电子积木
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
-      
-        <a href="https://producthunter.github.io//post/bu-neng-he-shui-de-mojo-ma-ke-bei" class="post">
-          <h2 class="post-title">
-            不能喝水的Mojo马克杯
-          </h2>
-          <div class="time">2019-10-01</div>
-        </a>
-      
-    
   
 </div>
 
-    
-        <div class="pagination-container">
-  
-  
-</div>
+        </div>
+      </div>
+    </div>
 
-    
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
-  <a class="rss" href="https://producthunter.github.io//atom.xml" target="_blank">RSS</a>
-</div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
-<script>
-  hljs.initHighlightingOnLoad()
+<script type="application/javascript">
 
-  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+AOS.init();
 
-  // This should probably be throttled.
-  // Especially because it triggers during smooth scrolling.
-  // https://lodash.com/docs/4.17.10#throttle
-  // You could do like...
-  // window.addEventListener("scroll", () => {
-  //    _.throttle(doThatStuff, 100);
-  // });
-  // Only not doing it here to keep this Pen dependency-free.
+hljs.initHighlightingOnLoad()
 
-  window.addEventListener("scroll", event => {
-    let fromTop = window.scrollY;
-
-    mainNavLinks.forEach((link, index) => {
-      let section = document.getElementById(decodeURI(link.hash).substring(1));
-      let nextSection = null
-      if (mainNavLinks[index + 1]) {
-        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-      }
-      if (section.offsetTop <= fromTop) {
-        if (nextSection) {
-          if (nextSection.offsetTop > fromTop) {
-            link.classList.add("current");
-          } else {
-            link.classList.remove("current");    
-          }
-        } else {
-          link.classList.add("current");
-        }
-      } else {
-        link.classList.remove("current");
-      }
-    });
-  });
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
 
-      </div>
-    </div>
+
+
+
   </body>
 </html>

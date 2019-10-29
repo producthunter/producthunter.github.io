@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://producthunter.github.io/</id>
     <title>Product Hunter</title>
-    <updated>2019-10-14T16:34:09.830Z</updated>
+    <updated>2019-10-29T16:06:21.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://producthunter.github.io/"/>
     <link rel="self" href="https://producthunter.github.io//atom.xml"/>
@@ -11,115 +11,135 @@
     <icon>https://producthunter.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Product Hunter</rights>
     <entry>
-        <title type="html"><![CDATA[简单原始的木制测灯仪]]></title>
-        <id>https://producthunter.github.io//post/jian-dan-yuan-shi-de-mu-zhi-ce-deng-yi</id>
-        <link href="https://producthunter.github.io//post/jian-dan-yuan-shi-de-mu-zhi-ce-deng-yi">
+        <title type="html"><![CDATA[bebird：可视化掏耳神器]]></title>
+        <id>https://producthunter.github.io//post/bebirdke-shi-hua-tao-er-shen-qi</id>
+        <link href="https://producthunter.github.io//post/bebirdke-shi-hua-tao-er-shen-qi">
         </link>
-        <updated>2019-10-14T16:11:40.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1571069525327.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1571069530325.jpg" alt=""></figure>
+        <updated>2019-10-29T16:03:41.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572365055422.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572365060257.webp" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572365063331.webp" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572365069747.webp" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[胶囊厨房套件]]></title>
-        <id>https://producthunter.github.io//post/xiao-nang-chu-fang-tao-jian</id>
-        <link href="https://producthunter.github.io//post/xiao-nang-chu-fang-tao-jian">
+        <title type="html"><![CDATA[tesmo：贴式电脑架]]></title>
+        <id>https://producthunter.github.io//post/tesmotie-shi-dian-nao-jia</id>
+        <link href="https://producthunter.github.io//post/tesmotie-shi-dian-nao-jia">
         </link>
-        <updated>2019-10-14T16:10:50.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1571069464858.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1571069472889.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1571069477676.jpg" alt=""></figure>
+        <updated>2019-10-29T15:54:27.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572364505775.gif" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572364511200.gif" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572364515269.gif" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一种可链式连接的烧烤炉]]></title>
-        <id>https://producthunter.github.io//post/yi-chong-ke-lian-shi-lian-jie-de-shao-kao-lu</id>
-        <link href="https://producthunter.github.io//post/yi-chong-ke-lian-shi-lian-jie-de-shao-kao-lu">
+        <title type="html"><![CDATA[TIMIO：另一种点读机]]></title>
+        <id>https://producthunter.github.io//post/timioling-yi-chong-dian-du-ji</id>
+        <link href="https://producthunter.github.io//post/timioling-yi-chong-dian-du-ji">
         </link>
-        <updated>2019-10-14T16:09:01.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1571069361135.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1571069369208.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1571069376094.jpg" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1571069381662.jpg" alt=""></figure>
+        <updated>2019-10-29T15:52:13.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572364354625.jpg" alt=""></figure>
+<p>我们熟知的点读机，是由一个贴了红外线的书和一个能读取红外线的朗读笔组成的。其原理是，点读笔里面有存储歌曲或故事，而点读书上面有编号。电读时，点读笔读取到编号就播放对应编号的音频。</p>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572364359719.gif" alt=""></figure>
+<p>然而timio有些与众不同。它由一个音箱和一个盘子组成。所谓的点读，则成了按键读音频。</p>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572364363357.gif" alt=""></figure>
+<p>不过，这种交互倒是蛮有新意的。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一种绳形灯]]></title>
-        <id>https://producthunter.github.io//post/yi-chong-sheng-xing-deng</id>
-        <link href="https://producthunter.github.io//post/yi-chong-sheng-xing-deng">
+        <title type="html"><![CDATA[Smart Padlock：一款智能锁]]></title>
+        <id>https://producthunter.github.io//post/smart-padlockyi-kuan-zhi-neng-suo</id>
+        <link href="https://producthunter.github.io//post/smart-padlockyi-kuan-zhi-neng-suo">
         </link>
-        <updated>2019-10-14T16:07:16.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1571069258707.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1571069275631.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1571069291039.gif" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1571069300849.jpg" alt=""></figure>
-<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1571069309607.jpg" alt=""></figure>
+        <updated>2019-10-29T15:48:16.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572364117751.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572364137542.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572364141218.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572364143746.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572364146182.jpg" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572364148556.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[飞利浦LED阅读灯]]></title>
-        <id>https://producthunter.github.io//post/fei-li-pu-led-yue-du-deng</id>
-        <link href="https://producthunter.github.io//post/fei-li-pu-led-yue-du-deng">
+        <title type="html"><![CDATA[princube：掌上打印机]]></title>
+        <id>https://producthunter.github.io//post/princubezhang-shang-da-yin-ji</id>
+        <link href="https://producthunter.github.io//post/princubezhang-shang-da-yin-ji">
         </link>
-        <updated>2019-10-14T16:05:32.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1571069165304.png" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1571069175893.png" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1571069179199.png" alt=""></figure>
+        <updated>2019-10-29T15:46:31.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572364018557.gif" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572364023962.gif" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572364031244.gif" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572364037855.gif" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572364041264.gif" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572364044463.gif" alt=""></figure>
+<figure data-type="image" tabindex="7"><img src="https://producthunter.github.io//post-images/1572364049544.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nybble 一款开源的机器猫]]></title>
-        <id>https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao</id>
-        <link href="https://producthunter.github.io//post/nybble-yi-kuan-kai-yuan-de-ji-qi-mao">
+        <title type="html"><![CDATA[powerplant：一款小巧的移动交流电源]]></title>
+        <id>https://producthunter.github.io//post/powerplantyi-kuan-xiao-qiao-de-yi-dong-jiao-liu-dian-yuan</id>
+        <link href="https://producthunter.github.io//post/powerplantyi-kuan-xiao-qiao-de-yi-dong-jiao-liu-dian-yuan">
         </link>
-        <updated>2019-10-06T18:27:25.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1570386522453.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1570386528080.png" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1570386535189.png" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1570386539125.jpg" alt=""></figure>
+        <updated>2019-10-29T15:44:56.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363926978.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363946527.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363952530.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363956674.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363960147.jpg" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572363963827.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[air-pix 揣在兜里的自拍无人机]]></title>
-        <id>https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji</id>
-        <link href="https://producthunter.github.io//post/air-pix-chuai-zai-dou-li-de-zi-pai-wu-ren-ji">
+        <title type="html"><![CDATA[incharge：钥匙扣形状的充电绳]]></title>
+        <id>https://producthunter.github.io//post/inchargeyao-chi-kou-xing-zhuang-de-chong-dian-sheng</id>
+        <link href="https://producthunter.github.io//post/inchargeyao-chi-kou-xing-zhuang-de-chong-dian-sheng">
         </link>
-        <updated>2019-10-06T18:07:54.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1570385368262.gif" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1570385377128.gif" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1570385382736.gif" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1570385388789.jpg" alt=""></figure>
+        <updated>2019-10-29T15:41:20.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363788401.webp" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363799416.webp" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363803660.png" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在线todolist]]></title>
-        <id>https://producthunter.github.io//post/zai-xian-todolist</id>
-        <link href="https://producthunter.github.io//post/zai-xian-todolist">
+        <title type="html"><![CDATA[GoSun Chill：一款移动冰箱]]></title>
+        <id>https://producthunter.github.io//post/gosun-chillyi-kuan-yi-dong-bing-xiang</id>
+        <link href="https://producthunter.github.io//post/gosun-chillyi-kuan-yi-dong-bing-xiang">
         </link>
-        <updated>2019-10-01T23:58:21.000Z</updated>
-        <content type="html"><![CDATA[<p>http://minimal-todo.surge.sh/</p>
-<p>http://todost.quentincolus.com/</p>
+        <updated>2019-10-29T15:36:12.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363398503.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363408437.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363421657.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363428465.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363433866.jpg" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572363436949.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A drone umbrella]]></title>
-        <id>https://producthunter.github.io//post/a-drone-umbrella</id>
-        <link href="https://producthunter.github.io//post/a-drone-umbrella">
+        <title type="html"><![CDATA[funky-frames：突破边框的调皮壁画]]></title>
+        <id>https://producthunter.github.io//post/funky-framestu-po-bian-kuang-de-diao-pi-bi-hua</id>
+        <link href="https://producthunter.github.io//post/funky-framestu-po-bian-kuang-de-diao-pi-bi-hua">
         </link>
-        <updated>2019-10-01T15:11:37.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1569942717138.jpg" alt=""></figure>
+        <updated>2019-10-29T15:34:43.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363318881.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363326903.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363332709.png" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363337397.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363341013.jpg" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572363344760.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[403 T恤]]></title>
-        <id>https://producthunter.github.io//post/403-t-xu</id>
-        <link href="https://producthunter.github.io//post/403-t-xu">
+        <title type="html"><![CDATA[finalhub：堆出来的万能HUB]]></title>
+        <id>https://producthunter.github.io//post/finalhubdui-chu-lai-de-wan-neng-hub</id>
+        <link href="https://producthunter.github.io//post/finalhubdui-chu-lai-de-wan-neng-hub">
         </link>
-        <updated>2019-10-01T14:34:54.000Z</updated>
-        <content type="html"><![CDATA[<p>403<br>
-Forbidden<br>
-Access to this resource on the server is denied!</p>
-<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1569940542029.png" alt=""></figure>
+        <updated>2019-10-29T15:32:40.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363193023.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363212882.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363220263.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363226520.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363238033.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>

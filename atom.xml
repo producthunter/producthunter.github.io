@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://producthunter.github.io/</id>
     <title>Product Hunter</title>
-    <updated>2019-10-29T16:06:21.114Z</updated>
+    <updated>2019-10-30T14:32:16.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://producthunter.github.io/"/>
     <link rel="self" href="https://producthunter.github.io//atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://producthunter.github.io//images/avatar.png</logo>
     <icon>https://producthunter.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Product Hunter</rights>
+    <entry>
+        <title type="html"><![CDATA[RoySmart：一款具备充电宝功能的书包]]></title>
+        <id>https://producthunter.github.io//post/roysmartyi-kuan-ju-bei-chong-dian-bao-gong-neng-de-shu-bao</id>
+        <link href="https://producthunter.github.io//post/roysmartyi-kuan-ju-bei-chong-dian-bao-gong-neng-de-shu-bao">
+        </link>
+        <updated>2019-10-30T14:30:52.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://producthunter.github.io//post-images/1572445894000.gif" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445897861.jpg" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445901757.jpg" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445907542.gif" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445915605.gif" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445920338.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zumi：一款好玩的小车]]></title>
+        <id>https://producthunter.github.io//post/zumiyi-kuan-hao-wan-de-xiao-che</id>
+        <link href="https://producthunter.github.io//post/zumiyi-kuan-hao-wan-de-xiao-che">
+        </link>
+        <updated>2019-10-30T14:29:17.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://producthunter.github.io//post-images/1572445796282.jpg" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445801135.webp" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445817612.jpg" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445823962.png" alt=""><br>
+<img src="https://producthunter.github.io//post-images/1572445827049.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBox 2：适合孩子的电子模块]]></title>
+        <id>https://producthunter.github.io//post/bbox-2gua-he-hai-zi-de-dian-zi-mo-kuai</id>
+        <link href="https://producthunter.github.io//post/bbox-2gua-he-hai-zi-de-dian-zi-mo-kuai">
+        </link>
+        <updated>2019-10-30T14:20:59.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572445296835.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572445301243.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572445305895.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572445312262.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572445316805.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bebird：可视化掏耳神器]]></title>
         <id>https://producthunter.github.io//post/bebirdke-shi-hua-tao-er-shen-qi</id>
@@ -99,47 +139,6 @@
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363788401.webp" alt=""></figure>
 <figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363799416.webp" alt=""></figure>
 <figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363803660.png" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoSun Chill：一款移动冰箱]]></title>
-        <id>https://producthunter.github.io//post/gosun-chillyi-kuan-yi-dong-bing-xiang</id>
-        <link href="https://producthunter.github.io//post/gosun-chillyi-kuan-yi-dong-bing-xiang">
-        </link>
-        <updated>2019-10-29T15:36:12.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363398503.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363408437.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363421657.jpg" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363428465.jpg" alt=""></figure>
-<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363433866.jpg" alt=""></figure>
-<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572363436949.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[funky-frames：突破边框的调皮壁画]]></title>
-        <id>https://producthunter.github.io//post/funky-framestu-po-bian-kuang-de-diao-pi-bi-hua</id>
-        <link href="https://producthunter.github.io//post/funky-framestu-po-bian-kuang-de-diao-pi-bi-hua">
-        </link>
-        <updated>2019-10-29T15:34:43.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363318881.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363326903.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363332709.png" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363337397.jpg" alt=""></figure>
-<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363341013.jpg" alt=""></figure>
-<figure data-type="image" tabindex="6"><img src="https://producthunter.github.io//post-images/1572363344760.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[finalhub：堆出来的万能HUB]]></title>
-        <id>https://producthunter.github.io//post/finalhubdui-chu-lai-de-wan-neng-hub</id>
-        <link href="https://producthunter.github.io//post/finalhubdui-chu-lai-de-wan-neng-hub">
-        </link>
-        <updated>2019-10-29T15:32:40.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://producthunter.github.io//post-images/1572363193023.jpg" alt=""></figure>
-<figure data-type="image" tabindex="2"><img src="https://producthunter.github.io//post-images/1572363212882.jpg" alt=""></figure>
-<figure data-type="image" tabindex="3"><img src="https://producthunter.github.io//post-images/1572363220263.jpg" alt=""></figure>
-<figure data-type="image" tabindex="4"><img src="https://producthunter.github.io//post-images/1572363226520.jpg" alt=""></figure>
-<figure data-type="image" tabindex="5"><img src="https://producthunter.github.io//post-images/1572363238033.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
